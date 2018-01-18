@@ -1,0 +1,9 @@
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\bin\Debug\HW14.exe.config
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\obj\Debug\HW14.exe
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\obj\Debug\HW14.pdb
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\bin\Debug\HW14.exe
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\bin\Debug\HW14.pdb
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\obj\Debug\TriePrefixes.csprojResolveAssemblyReference.cache
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\obj\Debug\TriePrefixes.Form1.resources
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\obj\Debug\HW14.Properties.Resources.resources
+D:\Users\Christian\Desktop\TriePrefixes\TriePrefixes\obj\Debug\TriePrefixes.csproj.GenerateResource.Cache

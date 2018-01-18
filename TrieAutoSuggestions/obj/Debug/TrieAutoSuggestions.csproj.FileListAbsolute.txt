@@ -1,0 +1,9 @@
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\bin\Debug\HW14.exe.config
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\bin\Debug\HW14.exe
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\bin\Debug\HW14.pdb
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\obj\Debug\TrieAutoSuggestions.csprojResolveAssemblyReference.cache
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\obj\Debug\TrieAutoSuggestions.Form1.resources
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\obj\Debug\HW14.Properties.Resources.resources
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\obj\Debug\TrieAutoSuggestions.csproj.GenerateResource.Cache
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\obj\Debug\HW14.exe
+D:\Users\Christian\Desktop\TriePrefixes\TrieAutoSuggestions\obj\Debug\HW14.pdb
